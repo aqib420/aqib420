@@ -12,20 +12,20 @@ Building scalable systems, data pipelines, and AI-powered applications.
 ---
 
 ### 🚀 About Me
-- 💻 SWE + Data Engineer focused on **real-world, scalable systems**
-- 🤖 Building **AI/ML applications** and data-driven products  
-- 📊 Interested in **Data Engineering, LLMs, and Backend Systems**
-- ⚡ Goal: Build impactful products & reach **$1M+ scalable tech business**
+-  SWE + Data Engineer focused on **real-world, scalable systems**
+-  Building **AI/ML applications** and data-driven products  
+-  Interested in **Data Engineering, LLMs, and Backend Systems**
+-  Goal: Build impactful products & reach **$1M+ scalable tech business**
 
 ---
 
-### 📂 Projects
-- 👨‍💻 Explore all my work here:  
-👉 https://github.com/aqib420?tab=repositories  
+###  Projects
+-  Explore all my work here:  
+ https://github.com/aqib420?tab=repositories  
 
 ---
 
-### 📫 Contact
+###  Contact
 - Email: **aquibahmed2000@gmail.com**
 
 ---
@@ -42,7 +42,7 @@ Building scalable systems, data pipelines, and AI-powered applications.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="left">
 
 <p align="center">
@@ -69,7 +69,7 @@ Building scalable systems, data pipelines, and AI-powered applications.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aqib420&show_icons=true&theme=default" />
 </p>
@@ -80,7 +80,7 @@ Building scalable systems, data pipelines, and AI-powered applications.
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aqib420&theme=flat" />
 </p>
