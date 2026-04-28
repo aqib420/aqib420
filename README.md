@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aquib Ansari</h1>
+<h1 align="center">Hi, I'm Aquib Ansari</h1>
 <h3 align="center">Software Engineer • Data Engineer • Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@ Building scalable systems, data pipelines, and AI-powered applications.
 
 ---
 
-### 🚀 About Me
+###  About Me
 -  SWE + Data Engineer focused on **real-world, scalable systems**
 -  Building **AI/ML applications** and data-driven products  
 -  Interested in **Data Engineering, LLMs, and Backend Systems**
