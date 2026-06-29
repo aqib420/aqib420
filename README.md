@@ -5,9 +5,9 @@
 Building scalable systems, data pipelines, and AI-powered applications.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqib420&label=Profile%20views&color=0e75b6&style=flat" alt="aqib420" />
-</p>
+</p> -->
 
 ---
 
