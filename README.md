@@ -45,12 +45,10 @@ At **BigGorillaApps**, I'm the engineer behind a suite of production AI agents:
 
 ### 📌 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/aqib420/FAISS-Recommendation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aqib420&repo=FAISS-Recommendation&theme=dark" /></a>
-  <a href="https://github.com/aqib420/RomanUrduSentimentAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aqib420&repo=RomanUrduSentimentAnalysis&theme=dark" /></a>
-  <a href="https://github.com/aqib420/english-to-french-transformer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aqib420&repo=english-to-french-transformer&theme=dark" /></a>
-  <a href="https://github.com/aqib420/Loadbalancing-and-Containerization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aqib420&repo=Loadbalancing-and-Containerization&theme=dark" /></a>
-</p>
+- 🔎 [**FAISS-Recommendation**](https://github.com/aqib420/FAISS-Recommendation) — semantic similarity search & event recommendations
+- 💬 [**RomanUrduSentimentAnalysis**](https://github.com/aqib420/RomanUrduSentimentAnalysis) — BERT/GPT-2/LSTM sentiment classifier for code-switched text
+- 🌐 [**english-to-french-transformer**](https://github.com/aqib420/english-to-french-transformer) — BART-based machine translation
+- 🐳 [**Loadbalancing-and-Containerization**](https://github.com/aqib420/Loadbalancing-and-Containerization) — Docker Compose + Nginx load balancing
 
 🔗 Full list: [github.com/aqib420?tab=repositories](https://github.com/aqib420?tab=repositories)
 
@@ -73,8 +71,7 @@ At **BigGorillaApps**, I'm the engineer behind a suite of production AI agents:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
@@ -111,17 +108,18 @@ At **BigGorillaApps**, I'm the engineer behind a suite of production AI agents:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aqib420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib420&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib420&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aqib420&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<!-- github-readme-stats.vercel.app and github-profile-trophy.vercel.app are currently returning
+     503/402 errors (the shared public instances are overloaded — a known, recurring issue with
+     these free tools). If they've recovered when you read this, you can add back:
+<img src="https://github-readme-stats.vercel.app/api?username=aqib420&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib420&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=aqib420&theme=tokyonight&no-frame=true" />
+     Otherwise, deploy your own free instance in one click via the "Deploy on your own Vercel" button at
+     https://github.com/anuraghazra/github-readme-stats and https://github.com/ryo-ma/github-profile-trophy
+     — that gives you a private, unrate-limited copy that won't randomly break. -->
 
 ---
 
@@ -133,9 +131,6 @@ At **BigGorillaApps**, I'm the engineer behind a suite of production AI agents:
 </a>
 <a href="https://www.linkedin.com/in/aquib-ansari-641ba1200/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="mailto:aquibahmed2000@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
 </a>
 </p>
 
